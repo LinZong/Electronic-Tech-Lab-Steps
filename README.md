@@ -10,4 +10,4 @@ I am happy to see any contribution to to this repo.
 
 Wish we all gain a good grade in final exam.
 
-[Chinese Version]("./README_CN.md")
+[Chinese Version](./README_CN.md)
