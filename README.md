@@ -9,3 +9,5 @@ Pull requests are welcomed and expected if there are something wrongs with the d
 I am happy to see any contribution to to this repo.
 
 Wish we all gain a good grade in final exam.
+
+[Chinese Version]("./README_CN.md")
